@@ -1,1 +1,2 @@
-# InterTask
+Textual Data Extraction and Analysis
+This project focuses on extracting and analyzing textual data from web articles provided through an Excel file containing URLs. The script automates the process of retrieving article content, performing sentiment analysis to determine positive and negative sentiment scores, and calculating various readability and linguistic metrics, including average sentence length, word count, and Fog Index. The results are consolidated into an Excel output file, making it easy to review the analysis. This tool is useful for automating text analysis tasks in projects involving large volumes of web content.
